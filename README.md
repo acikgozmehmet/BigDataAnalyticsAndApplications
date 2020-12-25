@@ -14,11 +14,11 @@ Lecture 2 : Spark Programming
 
    Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_02/SourceCode/ICP_2.ipynb
 
-Lecture 3 : Twitter Sentiment Analysis with NLTK
+**Lecture 3 : Twitter Sentiment Analysis with NLTK**
 
-	Course Material: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/tree/master/ICP_03/ICP_Materials 
+Course Material: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/tree/master/ICP_03/ICP_Materials 
 
-	Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_03/SourceCode/ICP03_SentimentAnalysisWithNLTK.ipynb
+Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_03/SourceCode/ICP03_SentimentAnalysisWithNLTK.ipynb
 
 
 Lecture 4 : Twitter Sentiment Analysis with Deep Learning
