@@ -5,13 +5,24 @@ Big Data analytics focus on analyzing large amounts of data to find useful infor
 
 # Contents 
 ICP_01 : Introduction to Big Data Analytics and Applications
+
 ICP_02 : Spark Programming
+
 ICP_03 : Twitter Sentiment Analysis with NLTK
+
 ICP_04 : Twitter Sentiment Analysis with Deep Learning
+
 ICP_05 : Image Classification with Deep Learning (CIFAR10 Dataset)
+
 ICP_06 : Character Generation With RNN
+
 ICP_07 : KMeans Clustering
+
 ICP_08 : AutoEncoders
+
 ICP_09 : Linear Regression
+
 ICP_10 : Designing a Deep Q learning Network (DQN), using Keras & OpenAI Gym
+
 ICP_11 : U Net Architecture
+
