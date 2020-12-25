@@ -6,7 +6,7 @@ Big Data analytics focus on analyzing large amounts of data to find useful infor
 ## Contents 
 Lecture 1 : Introduction to Big Data Analytics and Applications
 
-         * Course Material:  
+         Course Material:  
          
          ICP_01: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_01/SourceCode/ICP_01.ipynb
 
