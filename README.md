@@ -6,24 +6,26 @@ Big Data analytics focus on analyzing large amounts of data to find useful infor
 ## Contents 
 Lecture 1 : Introduction to Big Data Analytics and Applications
 
-Course Material:  
 Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_01/SourceCode/ICP_01.ipynb
 
 Lecture 2 : Spark Programming
 
 Course Material: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/tree/master/ICP_02/ICP_Materials 
+
 Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_02/SourceCode/ICP_2.ipynb
 
 Lecture 3 : Twitter Sentiment Analysis with NLTK
 
-Course Material:  
-Assignment     :
+Course Material: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/tree/master/ICP_03/ICP_Materials 
+
+Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_03/SourceCode/ICP03_SentimentAnalysisWithNLTK.ipynb
 
 
 Lecture 4 : Twitter Sentiment Analysis with Deep Learning
 
-Course Material:  
-Assignment     :
+Course Material: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/tree/master/ICP_04/ICP_Materials 
+
+Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_04/SourceCode/ICP03_SentimentAnalysisWithNLTK.ipynb
 
 Lecture 5 : Image Classification with Deep Learning (CIFAR10 Dataset)
 
