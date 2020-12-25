@@ -7,12 +7,16 @@ Big Data analytics focus on analyzing large amounts of data to find useful infor
 **Lecture 1 : Introduction to Big Data Analytics and Applications**
 
    Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_01/SourceCode/ICP_01.ipynb
+   
+   Wiki           : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/wiki/ICP_01-:-Introduction-to-Big-Data-Analytics-and-Applications
 
 **Lecture 2 : Spark Programming**
 
    Course Material: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/tree/master/ICP_02/ICP_Materials 
 
    Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_02/SourceCode/ICP_2.ipynb
+   
+   Wiki           : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/wiki/ICP_02-:-Spark-Programming
 
 **Lecture 3 : Twitter Sentiment Analysis with NLTK**
 
