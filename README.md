@@ -73,3 +73,7 @@ Course Material: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplication
 
 Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_11/SourceCode/ICP_11_U_Net_Architecture_pynb.ipynb
 
+
+**Project : Classifying and Searching News  Articles from Key Phrases**
+
+https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/tree/master/Project
