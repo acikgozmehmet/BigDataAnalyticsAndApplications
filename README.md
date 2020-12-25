@@ -4,11 +4,11 @@ COURSE DESCRIPTION :
 Big Data analytics focus on analyzing large amounts of data to find useful information and to make use of the information for better business decisions. This course introduces students to the practice and potential of big data analytics and applications. In this course, students will have hand-on experience with Big Data Analytics technologies (Apache Spark, TensorFlow) and tools (Intellij, Pycharm, Maven/SBT, MongoDB) for the analysis of big data sets with mobile/Web apps (Visual Question answering, Image Classification). Students will learn how to develop highly interactive and real-time applications for intelligent robots.
 
 ## Contents 
-Lecture 1 : Introduction to Big Data Analytics and Applications
+**Lecture 1 : Introduction to Big Data Analytics and Applications**
 
    Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_01/SourceCode/ICP_01.ipynb
 
-Lecture 2 : Spark Programming
+**Lecture 2 : Spark Programming**
 
    Course Material: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/tree/master/ICP_02/ICP_Materials 
 
@@ -21,44 +21,51 @@ Course Material: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplication
 Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_03/SourceCode/ICP03_SentimentAnalysisWithNLTK.ipynb
 
 
-Lecture 4 : Twitter Sentiment Analysis with Deep Learning
+**Lecture 4 : Twitter Sentiment Analysis with Deep Learning**
 
 Course Material: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/tree/master/ICP_04/ICP_Materials 
 
-Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_04/SourceCode/ICP03_SentimentAnalysisWithNLTK.ipynb
+Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_04/SourceCode/ICP04_DeepLearning.ipynb
 
-Lecture 5 : Image Classification with Deep Learning (CIFAR10 Dataset)
+**Lecture 5 : Image Classification with Deep Learning (CIFAR10 Dataset)**
 
-Course Material:  
-Assignment     :
+Course Material: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/tree/master/ICP_05/ICP_Materials 
 
-Lecture 6 : Character Generation With RNN
+Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_05/SourceCode/ICP05.ipynb
 
-Course Material:  
-Assignment     :
+**Lecture 6 : Character Generation With RNN**
 
-Lecture 7 : KMeans Clustering
+Course Material: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/tree/master/ICP_06/ICP_Materials 
 
-Course Material:  
-Assignment     :
+Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_06/SourceCode/ICP06_GRU_CharacterGeneration.ipynb
 
-Lecture 8 : AutoEncoders
+**Lecture 7 : KMeans Clustering**
 
-Course Material:  
-Assignment     :
+Course Material: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/tree/master/ICP_07/ICP_Materials 
 
-Lecture 9 : Linear Regression
+Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_07/SourceCode/ICP7_KMeansClustering.ipynb
 
-Course Material:  
-Assignment     :
+**Lecture 8 : AutoEncoders**
 
-Lecture 10 : Designing a Deep Q learning Network (DQN), using Keras & OpenAI Gym
+Course Material: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/tree/master/ICP_08/ICP_Materials 
 
-Course Material:  
-Assignment     :
+Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_08/SourceCode/ICP8_MA.ipynb
 
-Lecture 11 : U Net Architecture
+**Lecture 9 : Linear Regression**
 
-Course Material:  
-Assignment     :
+Course Material: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/tree/master/ICP_09/ICP_Materials 
+
+Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_09/SourceCode/ICP09__Regression_Automobile.ipynb
+
+**Lecture 10 : Designing a Deep Q learning Network (DQN), using Keras & OpenAI Gym**
+
+Course Material: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/tree/master/ICP_09/ICP_Materials 
+
+Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_10/SourceCode/CartPole.ipynb
+
+**Lecture 11 : U Net Architecture**
+
+Course Material: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/tree/master/ICP_09/ICP_Materials 
+
+Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_11/SourceCode/ICP_11_U_Net_Architecture_pynb.ipynb
 
