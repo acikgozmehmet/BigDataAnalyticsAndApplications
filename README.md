@@ -7,25 +7,56 @@ Big Data analytics focus on analyzing large amounts of data to find useful infor
 Lecture 1 : Introduction to Big Data Analytics and Applications
 
 Course Material:  
-ICP_01         : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_01/SourceCode/ICP_01.ipynb
+Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_01/SourceCode/ICP_01.ipynb
 
-ICP_02 : Spark Programming
+Lecture 2 : Spark Programming
 
-ICP_03 : Twitter Sentiment Analysis with NLTK
+Course Material: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/tree/master/ICP_02/ICP_Materials 
+Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_02/SourceCode/ICP_2.ipynb
 
-ICP_04 : Twitter Sentiment Analysis with Deep Learning
+Lecture 3 : Twitter Sentiment Analysis with NLTK
 
-ICP_05 : Image Classification with Deep Learning (CIFAR10 Dataset)
+Course Material:  
+Assignment     :
 
-ICP_06 : Character Generation With RNN
 
-ICP_07 : KMeans Clustering
+Lecture 4 : Twitter Sentiment Analysis with Deep Learning
 
-ICP_08 : AutoEncoders
+Course Material:  
+Assignment     :
 
-ICP_09 : Linear Regression
+Lecture 5 : Image Classification with Deep Learning (CIFAR10 Dataset)
 
-ICP_10 : Designing a Deep Q learning Network (DQN), using Keras & OpenAI Gym
+Course Material:  
+Assignment     :
 
-ICP_11 : U Net Architecture
+Lecture 6 : Character Generation With RNN
+
+Course Material:  
+Assignment     :
+
+Lecture 7 : KMeans Clustering
+
+Course Material:  
+Assignment     :
+
+Lecture 8 : AutoEncoders
+
+Course Material:  
+Assignment     :
+
+Lecture 9 : Linear Regression
+
+Course Material:  
+Assignment     :
+
+Lecture 10 : Designing a Deep Q learning Network (DQN), using Keras & OpenAI Gym
+
+Course Material:  
+Assignment     :
+
+Lecture 11 : U Net Architecture
+
+Course Material:  
+Assignment     :
 
