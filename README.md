@@ -47,13 +47,13 @@ Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplication
 
 Course Material: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/tree/master/ICP_07/ICP_Materials 
 
-Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_07/SourceCode/ICP7_KMeansClustering.ipynb
+Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_07/ICP_Materials/ICp_7.ipynb
 
 **Lecture 8 : AutoEncoders**
 
 Course Material: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/tree/master/ICP_08/ICP_Materials 
 
-Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_08/SourceCode/ICP8_MA.ipynb
+Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_08/SourceCode/ICP_8_MA.ipynb
 
 **Lecture 9 : Linear Regression**
 
