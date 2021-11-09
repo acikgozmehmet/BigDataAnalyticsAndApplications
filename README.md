@@ -59,7 +59,7 @@ Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplication
 
 Course Material: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/tree/master/ICP_09/ICP_Materials 
 
-Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_09/SourceCode/ICP09__Regression_Automobile.ipynb
+Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_09/ICP_Materials/ICP_9.ipynb
 
 **Lecture 10 : Designing a Deep Q learning Network (DQN), using Keras & OpenAI Gym**
 
