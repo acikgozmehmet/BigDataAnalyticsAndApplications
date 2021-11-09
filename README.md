@@ -22,7 +22,7 @@ Big Data analytics focus on analyzing large amounts of data to find useful infor
 
 Course Material: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/tree/master/ICP_03/ICP_Materials 
 
-Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_03/SourceCode/ICP03_SentimentAnalysisWithNLTK.ipynb
+Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_03/ICP_Materials/ICP3.ipynb
 
 
 **Lecture 4 : Twitter Sentiment Analysis with Deep Learning**
@@ -35,7 +35,7 @@ Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplication
 
 Course Material: https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/tree/master/ICP_05/ICP_Materials 
 
-Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_05/SourceCode/ICP05.ipynb
+Assignment     : https://github.com/acikgozmehmet/BigDataAnalyticsAndApplications/blob/master/ICP_05/ICP_Materials/ICP5.ipynb
 
 **Lecture 6 : Character Generation With RNN**
 
